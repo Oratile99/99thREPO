@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-Oratile_Galetlole_7866_FA2-A04F545C-DFE6-4FEE-BC14-430F51A9707F</UserSecretsId>
+    <RootNamespace>Oratile_Galetlole_7866_FA2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.12" />
+  </ItemGroup>
+
+</Project>
